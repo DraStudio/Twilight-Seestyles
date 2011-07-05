@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.HTML-MooTools">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#000000" />
+  <style id="/XML/Entities"
+    color="#cda869" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/HTML-MooTools/Inline CSS"
+    color="#ffffff" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/HTML-MooTools/Style Tags"
+    color="#ffffff" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/HTML-MooTools/Opening Style Tag"
+    color="#f9ee98" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Attributes in Tags"
+    color="#cda869" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Strings in Tags"
+    color="#8f9d6a" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Single Strings in Tags"
+    color="#8f9d6a" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/Inside curly brackets"
+    color="#ffffff" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Keywords"
+    color="#cda869" inverted-color="#ec77b3"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/Attribute state"
+    color="#ffffff" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Attributes"
+    color="#f9ee98" inverted-color="#ffa864"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Digits"
+    color="#c5753f" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Colors"
+    color="#c5753f" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/AutodocComment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/CSS/Comment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/CSS/String"
+    color="#8f9d6a" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/SingleString"
+    color="#8f9d6a" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/Round bracket"
+    color="#7587a6" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/HTML-MooTools/Inline Javascript"
+    color="#ffffff" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/HTML-MooTools/Script Tags"
+    color="#ffffff" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/Keywords"
+    color="#f9ee98" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/Numbers"
+    color="#c5753f" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/Characters"
+    color="#c5753f" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/FunctionRegex"
+    color="#ffffff" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/HTML-MooTools/Opening Script Tag"
+    color="#f9ee98" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/AutodocComment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/MooTools/Comment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/MooTools/SingleComment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/MooTools/Regular Expressions"
+    color="#661aa9" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/Escaped Characters"
+    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/String"
+    color="#8f9d6a" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/MooTools/SingleString"
+    color="#8f9d6a" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/XML/Comment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/XML/SGML Double Dash"
+    color="#d2a8a1" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/XML/CDATA"
+    color="#cf6a4c" inverted-color="#ff0000"  font-style="italic" font-weight="normal" />
+  <style id="/XML/Doctype"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/XML/Escape"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/XML/Tags"
+    color="#ac885b" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>

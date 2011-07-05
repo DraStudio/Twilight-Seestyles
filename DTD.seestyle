@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.DTD">
+  <style id="_Default"
+    color="#ffffff" inverted-color="#000000"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#ebebeb" />
+  <style id="/DTD/Entities"
+    color="#cda869" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/DTD/Comment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/DTD/SGML Double Dash"
+    color="#d2a8a1" inverted-color="#ff0000"  font-style="normal" font-weight="normal" />
+  <style id="/DTD/Escape"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/DTD/Element"
+    color="#ac885b" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/DTD/Content Model"
+    color="#8f9d6a" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/DTD/Element Type"
+    color="#f9ee98" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/DTD/Element Name"
+    color="#7187a7" inverted-color="#586e8e"  font-style="normal" font-weight="normal" />
+  <style id="/DTD/Attribute List"
+    color="#ac885b" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
+  <style id="/DTD/Attribute Value"
+    color="#9b859d" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+  <style id="/DTD/Attribute List Item"
+    color="#7587a6" inverted-color="#5959e5"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
