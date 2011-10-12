@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.jQuery">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#000000" />
+  <style id="/jQuery/Keywords"
+    color="#cda869" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/Numbers"
+    color="#cf6a4c" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/Characters"
+    color="#cf6a4c" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/FunctionRegex"
+    color="#f9ee98" inverted-color="#96c9ff"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/AutodocComment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/jQuery/Comment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/jQuery/SingleComment"
+    color="#5f5a60" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+  <style id="/jQuery/Regular Expressions"
+    color="#8340a9" inverted-color="#a256e5"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/Escaped Characters"
+    color="#be73fd" inverted-color="#4d028c"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/String"
+    color="#8f9d6a" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/SingleString"
+    color="#8f9d6a" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
