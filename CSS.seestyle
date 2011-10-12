@@ -23,7 +23,7 @@
     color="#8f9d6a" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
   <style id="/CSS/SingleString"
     color="#8f9d6a" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
-  <style id="/CSS/Round bracket"
-    color="#7587a6" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/URL"
+    color="#cc6666" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
 </mode>
 </seestyle>

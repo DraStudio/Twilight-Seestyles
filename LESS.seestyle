@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seestyle>
+<mode id="SEEMode.LESS">
+  <style id="_Default"
+    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#171717" inverted-background-color="#ececec" />
+  <style id="/LESS/LESS Variables"
+    color="#c9d0ff" inverted-color="#b84545"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/Inside curly brackets"
+    color="#ffffff" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Keywords"
+    color="#cc9966" inverted-color="#ec77b3"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/Mixins"
+    color="#c9d0ff" inverted-color="#bb4949"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/Attribute State"
+    color="#ffffff" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Attributes"
+    color="#ffff99" inverted-color="#ffa864"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Operators"
+    color="#ffffff" inverted-color="#547cbf"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Digits"
+    color="#996633" inverted-color="#0000ff"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/LESS Colors"
+    color="#996633" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/AutodocComment"
+    color="#666666" inverted-color="#91dc93"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/Comment"
+    color="#666666" inverted-color="#91dc93"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/SingleComment"
+    color="#575757" inverted-color="#91dc93"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/String"
+    color="#999966" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/SingleString"
+    color="#999966" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+  <style id="/LESS/Round bracket"
+    color="#cc6666" inverted-color="#f0898f"  font-style="normal" font-weight="normal" />
+</mode>
+</seestyle>
