@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.CSS">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#000000" />
+    color="#dddddd" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#000000" />
   <style id="/CSS/Inside curly brackets"
     color="#fcfcfc" inverted-color="#ffffff"  font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"

@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.DTD">
   <style id="_Default"
-    color="#ffffff" inverted-color="#000000"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#ebebeb" />
+    color="#dddddd" inverted-color="#000000"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#ebebeb" />
   <style id="/DTD/Entities"
     color="#cda869" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/DTD/Comment"
