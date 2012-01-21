@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.HTML-MooTools">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#ffffff" inverted-background-color="#000000" />
+    color="#dddddd" inverted-color="#000000"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#ebebeb" />
   <style id="/XML/Entities"
     color="#cda869" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/HTML-MooTools/Inline CSS"

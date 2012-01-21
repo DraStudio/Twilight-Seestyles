@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.Javascript">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#000000" />
+    color="#dddddd" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#000000" />
   <style id="/Javascript/Keywords"
     color="#cda869" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
