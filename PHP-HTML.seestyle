@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.PHP-HTML">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#000000" />
+    color="#dddddd" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#141414" inverted-background-color="#000000" />
   <style id="/PHP-HTML/Entities"
     color="#9b703f" inverted-color="#ed77e5"  font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/PHP"

@@ -2,7 +2,7 @@
 <seestyle>
 <mode id="SEEMode.LESS">
   <style id="_Default"
-    color="#000000" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#171717" inverted-background-color="#ececec" />
+    color="#dddddd" inverted-color="#ffffff"  font-style="normal" font-weight="normal" background-color="#171717" inverted-background-color="#ececec" />
   <style id="/LESS/LESS Variables"
     color="#c9d0ff" inverted-color="#b84545"  font-style="normal" font-weight="normal" />
   <style id="/LESS/Inside curly brackets"
